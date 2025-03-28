@@ -21,4 +21,4 @@ Program Features:
 
 Screenshots
 
-![ScreenShot of the app](assets/screenshot_compount_interest.jpg)  
+![Screenshot of the app](assets/screenshot_compound_interest.jpg)   
