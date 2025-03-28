@@ -18,3 +18,7 @@ Program Features:
 -Can be distributed using PyInstaller to create an executable
 -Install PyInstaller: pip install pyinstaller
 -Create executable: pyinstaller --onefile --windowed compound_interest_calculator.py
+
+Screenshots
+
+![ScreenShot of the app](assets/screenshot_compount_interest.jpg)  
